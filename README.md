@@ -2,5 +2,5 @@
 
 #Links úteis
 
-<a href="https://www.alura.com.br/" target="_blank">ALURA</a>
-<a href="https://desenvolve.grupoboticario.com.br/" target="_blank">Programa [desenvolve]  Grupo Boticário</a>
+* [ALURA](https://www.alura.com.br/)
+* [Programa [desenvolve]  Grupo Boticário](https://desenvolve.grupoboticario.com.br/)
